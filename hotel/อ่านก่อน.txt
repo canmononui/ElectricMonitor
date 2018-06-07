@@ -1,0 +1,10 @@
+ลง Library ตัว EmonLib-master ก่อน
+เป็นตัวคำนวณ Amp
+
+mega+lan ใช้ >> mega_lan
+จะใช้php >> add_tanee.php
+
+wifi ใช้ >> wifi_uno
+จะใช้php >> wifi_add.php
+
+ทั้ง 2 ไฟล add ไปที่ table เดียวกันคือ sensor
